@@ -1,4 +1,5 @@
-/* JavaDoc exercise
+/**
+JavaDoc exercise
 * @author Alessandro
 * The Tester class is used to test the WordGames class.
 * create a WordGames object
