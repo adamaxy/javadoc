@@ -1,6 +1,6 @@
 /**
 JavaDoc exercise
-* @author Alessandro
+* @author Giovanni
 * The Tester class is used to test the WordGames class.
 * create a WordGames object
 * print the addHelloWord method and the getFullName method
@@ -11,8 +11,8 @@ public static void main(String[]args ){
     //here we print addHelloWord by adding the word "World" to the method----es .addHelloWord("World")
     System.out.println(wordObj.addHelloWord("World"));
     //here the console returns to us: Hello World
-    //and here at the end we print getFullName adding our name and surname---- es .getFullName("Alessandro","Venuti")
-    System.out.println(wordObj.getFullName("Alessandro","Venuti"));
-    //here the console returns to us: Alessandro Venuti
+    //and here at the end we print getFullName adding our name and surname---- es .getFullName("Giovanni","Cassano")
+    System.out.println(wordObj.getFullName("Giovanni","Cassano"));
+    //here the console returns to us: Giovanni Cassano
 }
 }

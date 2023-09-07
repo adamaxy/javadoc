@@ -1,6 +1,6 @@
 /**
  * JavaDoc exercise
- * @author Alessandro
+ * @author Giovanni
  *  The WordGames class provides methods for playing with words.
  *  Contains methods for adding 'Hello' in front of a word and
  *  concatenating name and surname to form a full name.
